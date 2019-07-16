@@ -16,7 +16,7 @@ body {
   z-index: -5;
 }
 /*gradient background overlay */
-#gradient
+/*#gradient
 {
   background: grey;
   position:fixed;
@@ -26,6 +26,8 @@ body {
   max-height: 100%;
   z-index:-4;
 }
+
+*/
 .content {
   position: fixed;
   bottom: 0;
@@ -43,9 +45,6 @@ main h1{
   background:rgba (0,0,0,0.5);
 }
 
-/*Resume CSS*/
-.resume .resume-text
-{color:orange;}
 /*
 #background-video {
 position: fixed;
